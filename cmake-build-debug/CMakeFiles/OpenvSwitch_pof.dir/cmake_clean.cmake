@@ -134,6 +134,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/OpenvSwitch_pof.dir/lib/lldp/lldpd.c.o"
   "CMakeFiles/OpenvSwitch_pof.dir/lib/lockfile.c.o"
   "CMakeFiles/OpenvSwitch_pof.dir/lib/mac-learning.c.o"
+  "CMakeFiles/OpenvSwitch_pof.dir/lib/main.c.o"
   "CMakeFiles/OpenvSwitch_pof.dir/lib/match.c.o"
   "CMakeFiles/OpenvSwitch_pof.dir/lib/mcast-snooping.c.o"
   "CMakeFiles/OpenvSwitch_pof.dir/lib/memory.c.o"

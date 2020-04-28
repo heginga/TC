@@ -3768,6 +3768,33 @@ lib/mac-learning.c.s:
 	$(MAKE) -f CMakeFiles/OpenvSwitch_pof.dir/build.make CMakeFiles/OpenvSwitch_pof.dir/lib/mac-learning.c.s
 .PHONY : lib/mac-learning.c.s
 
+lib/main.o: lib/main.c.o
+
+.PHONY : lib/main.o
+
+# target to build an object file
+lib/main.c.o:
+	$(MAKE) -f CMakeFiles/OpenvSwitch_pof.dir/build.make CMakeFiles/OpenvSwitch_pof.dir/lib/main.c.o
+.PHONY : lib/main.c.o
+
+lib/main.i: lib/main.c.i
+
+.PHONY : lib/main.i
+
+# target to preprocess a source file
+lib/main.c.i:
+	$(MAKE) -f CMakeFiles/OpenvSwitch_pof.dir/build.make CMakeFiles/OpenvSwitch_pof.dir/lib/main.c.i
+.PHONY : lib/main.c.i
+
+lib/main.s: lib/main.c.s
+
+.PHONY : lib/main.s
+
+# target to generate assembly for a file
+lib/main.c.s:
+	$(MAKE) -f CMakeFiles/OpenvSwitch_pof.dir/build.make CMakeFiles/OpenvSwitch_pof.dir/lib/main.c.s
+.PHONY : lib/main.c.s
+
 lib/match.o: lib/match.c.o
 
 .PHONY : lib/match.o
@@ -10284,6 +10311,9 @@ help:
 	@echo "... lib/mac-learning.o"
 	@echo "... lib/mac-learning.i"
 	@echo "... lib/mac-learning.s"
+	@echo "... lib/main.o"
+	@echo "... lib/main.i"
+	@echo "... lib/main.s"
 	@echo "... lib/match.o"
 	@echo "... lib/match.i"
 	@echo "... lib/match.s"

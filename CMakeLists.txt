@@ -344,6 +344,7 @@ add_executable(OpenvSwitch_pof
         lib/bitmap.h
         lib/bundle.c
         lib/bundle.h
+        lib/main.c
         lib/byte-order.h
         lib/byteq.c
         lib/byteq.h
@@ -831,4 +832,4 @@ add_executable(OpenvSwitch_pof
         vswitchd/system-stats.h
         vswitchd/xenserver.c
         vswitchd/xenserver.h
-        vtep/vtep-ctl.c lib/tc.h lib/netdev-offload-tc.c lib/netdev-offload-tc.h lib/tc.c)
+        vtep/vtep-ctl.c lib/tc.h lib/netdev-offload-tc.c lib/netdev-offload-tc.h lib/tc.c lib/main.c)

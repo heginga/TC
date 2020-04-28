@@ -6,15 +6,6 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
@@ -29,7 +20,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1d90441-5738-49e8-976e-8b0937b518db" name="Default Changelist" comment="add code" />
+    <list default="true" id="a1d90441-5738-49e8-976e-8b0937b518db" name="Default Changelist" comment="add code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +72,8 @@
       <option name="presentableId" value="Default" />
       <updated>1588061118828</updated>
       <workItem from="1588061129007" duration="204000" />
-      <workItem from="1588061376591" duration="1272000" />
+      <workItem from="1588061376591" duration="1717000" />
+      <workItem from="1588066149299" duration="76000" />
     </task>
     <task id="LOCAL-00001" summary="add code">
       <created>1588061233537</created>
@@ -117,5 +111,15 @@
     <MESSAGE value="add" />
     <MESSAGE value="add code" />
     <option name="LAST_COMMIT_MESSAGE" value="add code" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="430" y="155" key="Vcs.Push.Dialog.v2" timestamp="1588066178682">
+      <screen x="0" y="0" width="1660" height="848" />
+    </state>
+    <state x="430" y="155" key="Vcs.Push.Dialog.v2/0.0.1660.848@0.0.1660.848" timestamp="1588066178682" />
+    <state x="659" y="126" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1588064721377">
+      <screen x="0" y="0" width="1660" height="848" />
+    </state>
+    <state x="659" y="126" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1660.848@0.0.1660.848" timestamp="1588064721377" />
   </component>
 </project>
